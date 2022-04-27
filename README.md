@@ -2,6 +2,7 @@
 Tool to jailbreak Sagemcom F@ST 5657GF aka NOS Giga Router Wifi 6 and other compatible devices
 
 
+```
 Utilização: n0s <opções> <ip>
 
   N0S - ABRE-LATAS PARA O SAGEMCOM F@ST5657GF
@@ -16,6 +17,5 @@ Opções:
   -t   --testar          Verifica se é possível o jailbreak
   -a   --abrir           Faz o jailbreak ao router
   -v   --version         Mostra a versão da app
-  -h   --help            Mostra a ajuda
-  
-  
+  -h   --help            Mostra a ajuda 
+ ```
