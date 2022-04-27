@@ -19,3 +19,11 @@ Opções:
   -v   --version         Mostra a versão da app
   -h   --help            Mostra a ajuda 
  ```
+
+### Download:
+
+Windows x64 [Download](https://github.com/n0sp0is/n0s/releases/download/master/n0s_win64.exe)
+
+Linux x64 [Download](https://github.com/n0sp0is/n0s/releases/download/master/n0s_linux_x64)
+
+MacOS [Download](https://github.com/n0sp0is/n0s/releases/download/master/n0s_mac)
