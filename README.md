@@ -1,7 +1,16 @@
 # n0s
 Tool to jailbreak Sagemcom F@ST 5657GF aka NOS Giga Router Wifi 6 and other compatible devices
 
+### Features
+- Fully disables TR-69 protocol (what allows the ISP to snoop into the device)
+- Opens root access through telnet
+- It disables ISP default accounts
+- It enables advanced mode for XMO
+- It changes critical passwords to random ones
+- It disables the syslog server, better stability / no overspace usage
 
+### !IMPORTANT!:
+!!!! The router needs to have the default config applied, or at least the default credentials (admin/admin)
 ```
 Utilização: n0s <opções> <ip>
 
