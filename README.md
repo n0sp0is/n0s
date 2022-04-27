@@ -8,6 +8,7 @@ Tool to jailbreak Sagemcom F@ST 5657GF aka NOS Giga Router Wifi 6 and other comp
 - It enables advanced mode for XMO
 - It changes critical passwords to random ones
 - It disables the syslog server, better stability / no overspace usage
+- It gives you access to a powerfull device running an OpenWrt flavour!
 
 ### !IMPORTANT!:
 !!!! The router needs to have the default config applied, or at least the default credentials (admin/admin)
